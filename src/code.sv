@@ -14,5 +14,5 @@ code1 code1();
         end else begin               // 计数到5后退出仿真
             $display("hello world");
             $finish;
-        end
+        endn
 endmodule
